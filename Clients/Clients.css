@@ -1,0 +1,30 @@
+.ilogo{
+    object-fit: contain;
+    height: 10vh;
+    margin-left: 2vw;
+    margin-bottom: 2vh;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+}
+.ilogo:hover{
+    transform: scale(1.15);
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh ;
+}
+.clients{
+    margin-left: 5vw;
+}
+.company__logos{
+    margin-top: 6vh;
+    margin-bottom: 6vh;
+}
+.company__section{
+    margin-top: 3vh;
+}
+h4{
+    margin-left: 2vw;
+}
